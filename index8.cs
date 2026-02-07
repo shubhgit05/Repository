@@ -16,7 +16,7 @@ namespace Learning{
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Index8.cs in dev branch");
+            Console.WriteLine("index8.cs in dev branch");
             return ;
         }
     }
