@@ -9,7 +9,7 @@ namespace Learning{
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Shubh Arora  ");
+            Console.WriteLine("Shubh Arora");
             return ;
         }
     }
